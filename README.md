@@ -9,8 +9,8 @@
   <a href="https://linkedin.com/in/baghsnnn target="_blank""><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snbon&label=Profile%20views&color=0e75b6&style=flat" alt="snbon" /> </p>
+
 ---
 
 ### 🚀 Technologies & Tools
