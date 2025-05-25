@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://snoubagh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://snoubagh.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:sweaniz007@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/baghsnnn"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/baghsnnn target="_blank""><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
