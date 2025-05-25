@@ -47,7 +47,3 @@
 
 ---
 
-<!-- Optional: background or banner image -->
-<!-- <img src="https://yourdomain.com/banner.png" width="100%" alt="banner" /> -->
-
-<p align="center">Made with ❤️ from Belgium 🇧🇪</p>
