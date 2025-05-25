@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sweaniz 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=440&lines=Tech-savvy+;Creative+Problem+Solver;Coding+%26+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=440&lines=Tech-savvy+;Creative+Problem+Solver;Coding+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
