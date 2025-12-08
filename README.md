@@ -16,25 +16,16 @@
 ### 🚀 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,react,vue,tailwind,vuetify,webpack,express,php,laravel,postman,git,mysql,netlify,linux,cs,illustrator,reactnative" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,react,vue,tailwind,vuetify,php,laravel,postman,git,mysql,netlify,illustrator,reactnative" /><br>
 </div>
 
 ---
 
 ### 📌 About Me
 
-- 🔭 Currently open for positions: **full-stack and backend developer**
-- 🧠 Background in **Software Developer**, **Entrepreneurship**, and **MarCom/Management**
+- 🔭 A **full-stack developer** that builds products. 
+- 🧠 Background in **Software Development**, **Entrepreneurship**, and **MarCom/Management**
 - 🎯 Passionate about clean design, artificial intelligence, and performance-first builds
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snbon&show_icons=true&theme=radical" height="165" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snbon&layout=compact&theme=radical" height="165" />
-</p>
 
 ---
 
