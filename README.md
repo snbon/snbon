@@ -15,7 +15,7 @@
 ### 🚀 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,react,vue,tailwind,vuetify,php,laravel,postman,git,mysql,netlify,illustrator,reactnative" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,tailwind,vuetify,php,laravel,postman,git,mysql,postgres,supabase,netlify,illustrator,reactnative" /><br>
 </div>
 
 ---
